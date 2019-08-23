@@ -12,23 +12,12 @@
    crossorigin=""></script>
 
    <script type="text/javascript" src="./js/leaflet-ajax.js"></script>
+   <link rel="stylesheet" type="text/css" href="./css/main.css">
 
-   <style type="text/css">#mapid { height: 1000px; }</style>
 </head>
 <body>
-	<div id="mapid"></div>
+	<div id="map"></div>
+   <script type="text/javascript" src="./js/main.js"></script>
 
-	<script type="text/javascript">
-		var map = L.map('mapid').setView([28.5383, -81.3792], 13);
-
-		var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-			maxZoom: 19,
-			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-		}).addTo(map);
-
-		var geojsonLayer = new L.GeoJSON.AJAX("OrlandoStreetCenterlines.json");       
-		geojsonLayer.addTo(map);
-
-	</script>
 </body>
 </html>

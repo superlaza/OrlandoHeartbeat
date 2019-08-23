@@ -1,0 +1,8848 @@
+{
+  "N ORANGE AVE": {
+    "261050": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.089 MI. NE OF SR-527 (UC)",
+        "Cosite": "750548"
+      }
+    },
+    "261140": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 10000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527 (SB), 0.032 MI. N OF SR-50 (NB=5148)(UV)",
+        "Cosite": "755035"
+      }
+    },
+    "261220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.05 MI. SW OF SR-527 (MAGNOLIA AV.) (UV)",
+        "Cosite": "755165"
+      }
+    },
+    "261410": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 21000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.882 MI. N OF SR-438 (UV)",
+        "Cosite": "755039"
+      }
+    }
+  },
+  "WALLACE RD": {
+    "8074640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 20200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DR. PHILLIPS BLVD., N OF SANDLAKE ROAD - OFF SYSTEM",
+        "Cosite": "758099"
+      }
+    },
+    "8096591": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WALLACE ROAD, BETWEEN SPRING SONG DRIVE AND TURKEY LAKE ROAD - OFF SYSTEM",
+        "Cosite": "758133"
+      }
+    }
+  },
+  "O U C RR": {
+    "8070145": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 0,
+            "DFCTR": 52.5,
+            "AADT": 2000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SAWGRASS PLANTATION BLVD. S OF WETHERBEE  RD - OFF SYSTEM",
+        "Cosite": "758374"
+      }
+    },
+    "8078957": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "JOHN WYCLIFFE BLVD, 700' E OF MOSS PARK RD - OFF SYSTEM",
+        "Cosite": "758354"
+      }
+    }
+  },
+  "WILSHIRE DR": {
+    "8087967": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 0,
+            "DFCTR": 52.5,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WILSHIRE DR. S OF METROWEST - OFF SYSTEM",
+        "Cosite": "758375"
+      }
+    }
+  },
+  "DELANEY AVE": {
+    "95490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DELANEY AVE, 650 FT S OF GORE ST - OFF SYSTEM",
+        "Cosite": "758329"
+      }
+    },
+    "95880": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DELANEY AVENUE, N OF GORE STREET - OFF SYSTEM",
+        "Cosite": "758119"
+      }
+    }
+  },
+  "E MARKS ST": {
+    "235210": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MARK STREET, E OF ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758115"
+      }
+    }
+  },
+  "W LIVINGSTON ST": {
+    "224870": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 650
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LIVINGSTON STREET, E OF US-441/S ORANGE BLOSSOM TRAIL - OFF SYSTEM",
+        "Cosite": "758076"
+      }
+    }
+  },
+  "S PARRAMORE AVE": {
+    "273860": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PARAMORE STREET, N OF KALEY STREET - OFF SYSTEM",
+        "Cosite": "758077"
+      }
+    }
+  },
+  "S CRYSTAL LAKE DR": {
+    "90200": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CRYSTAL LAKE DRIVE, N OF MICHIGAN STREET - OFF SYSTEM",
+        "Cosite": "758251"
+      }
+    },
+    "90420": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 26000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.2 MI. N. SR-15 (ANDERSON ST.)",
+        "Cosite": "755215"
+      }
+    }
+  },
+  "TRADEPORT DR": {
+    "8070274": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TRADEPORT DRIVE, E OF CR-527/ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758154"
+      }
+    },
+    "8073817": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 16,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON TRADEPORT DR, 0.615 MI. S OF MCCOY RD.(SIS)(UC)",
+        "Cosite": "750034"
+      }
+    },
+    "8073818": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 14.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 25000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON TRADEPORT DR., 0.35 MI. S OF SR-528 (SIS)",
+        "Cosite": "750042"
+      }
+    }
+  },
+  "NEW BROAD ST": {
+    "231330": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "NEW BROAD STREET, E OF BENNET ROAD - OFF SYSTEM",
+        "Cosite": "758223"
+      }
+    },
+    "8102880": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "NEW BROAD ST EB, 200 FT W OF COMMON WAY RD - OFF SYSTEM",
+        "Cosite": "758310"
+      }
+    },
+    "8102883": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "NEW BROAD ST WB, 200 FT W OF COMMON WAY RD - OFF SYSTEM",
+        "Cosite": "758224"
+      }
+    }
+  },
+  "LAKE BALDWIN LN": {
+    "8102937": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HUMPHRIES AVENUE/GLENRIDGE WAY, N OF SR-50 - OFF SYSTEM",
+        "Cosite": "758225"
+      }
+    }
+  },
+  "N PRIMROSE DR": {
+    "286580": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CENTRAL AVENUE, E OF SUMMERLIN AVENUE - OFF SYSTEM",
+        "Cosite": "758117"
+      }
+    }
+  },
+  "E CENTRAL BLVD": {
+    "52870": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CENTRAL AVENUE, E OF SUMMERLIN AVENUE - OFF SYSTEM",
+        "Cosite": "758118"
+      }
+    }
+  },
+  "STEER LAKE RD": {
+    "345930": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WESTOVER ROBERTS ROAD, E OF HEMPEL AVENUE - OFF SYSTEM",
+        "Cosite": "758200"
+      }
+    },
+    "8084427": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "STEER LAKE ROAD, E OF APOPKA VINELAND ROAD - OFF SYSTEM",
+        "Cosite": "758201"
+      }
+    }
+  },
+  "W MILLER AVE": {
+    "243280": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WESTMORELAND DRIVE, N OF MICHIGAN STREET - OFF SYSTEM",
+        "Cosite": "758252"
+      }
+    },
+    "243290": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "KALEY AVENUE, E OF RIO GRANDE AVENUE - OFF SYSTEM",
+        "Cosite": "758072"
+      }
+    }
+  },
+  "BARNETT PARK": {
+    "9900937": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 32000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PINE HILLS ROAD, N OF SR-50/COLONIAL DRIVE - OFF SYSTEM",
+        "Cosite": "758308"
+      }
+    }
+  },
+  "N ORANGE BLOSSOM TRL": {
+    "263230": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 30000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.405 MI. N OF SR-50 (UVL)",
+        "Cosite": "750544"
+      }
+    },
+    "263390": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 32500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.595 MI. N OF SR-50 (UCLP)",
+        "Cosite": "750443"
+      }
+    },
+    "462160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 1.038 MI. N OF SR-50 (UVL)",
+        "Cosite": "750106"
+      }
+    },
+    "8104790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 29000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-441, 0.142 MI. S OF SR-50(UVL)",
+        "Cosite": "755007"
+      }
+    }
+  },
+  "SR 417 ON RAMP S": {
+    "8091968": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM NARCOOSEE ROAD TO SR-417 SB",
+        "Cosite": "752262"
+      }
+    },
+    "8092148": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.3,
+            "KFCTR": 9,
+            "DFCTR": 54.8,
+            "AADT": 61500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-528, 0.649 MI. E OF SR-417 (UV) 2017 HPMS SAMPLE",
+        "Cosite": "750618"
+      }
+    },
+    "8092150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO SR-528 WB",
+        "Cosite": "752252"
+      }
+    },
+    "8103899": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM LEE VISTA BLVD TO SR-417 SB",
+        "Cosite": "752232"
+      }
+    },
+    "8107600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM LAKE NONA BLVD TO SR-417 SB",
+        "Cosite": "752282"
+      }
+    },
+    "8111397": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM MOSS PARK ROAD TO SR-417 SB",
+        "Cosite": "752288"
+      }
+    }
+  },
+  "EDGEWATER DR": {
+    "108210": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 36000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.12 MI. E OF SR-424 (UVL)",
+        "Cosite": "750638"
+      }
+    },
+    "108240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR 434 (FOREST CITY RD.) 1.5 MI W OF SR 424 (EDGEWATER DR.)",
+        "Cosite": "750311"
+      }
+    },
+    "108250": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 28000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-434, 0.48 MI. N OF SR-424",
+        "Cosite": "750593"
+      }
+    },
+    "108420": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "EDGEWATER DRIVE, N OF SR-50/COLONIAL DRIVE - OFF SYSTEM",
+        "Cosite": "758280"
+      }
+    },
+    "108570": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-424/EDGEWATER, 200 FT S OF SR-438/PRINCETON (HPMS)",
+        "Cosite": "755154"
+      }
+    },
+    "108840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MAGNOLIA HOLMES RD., 0.4 MI. N OF EDGEWATER DR. (HPMS)",
+        "Cosite": "757009"
+      }
+    },
+    "8099777": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 29500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-424, 0.138 MI. N OF SR-423 (UVL)",
+        "Cosite": "755218"
+      }
+    },
+    "8102872": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 42000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.233 MI. W OF I-4  (UVL)",
+        "Cosite": "750503"
+      }
+    }
+  },
+  "DAETWYLER DR": {
+    "92550": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DAETWYLER RD., JUDGE TO MCCOY RD. (HPMS)",
+        "Cosite": "757003"
+      }
+    }
+  },
+  "W COLONIAL DR": {
+    "64620": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 38000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.561 MI. E OF US-441 (UVL)",
+        "Cosite": "755162"
+      }
+    },
+    "64710": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 35500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.080 MI. E OF US-441 (UVL)",
+        "Cosite": "750545"
+      }
+    },
+    "64740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 31000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.05 MI. W OF US-441 (UVL) INACTIVE",
+        "Cosite": "755009"
+      }
+    },
+    "64790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 34000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.52 MI. W OF US-441 (UC)",
+        "Cosite": "755180"
+      }
+    },
+    "64810": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 35000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.17 MI. E OF SR-423 (UVL)",
+        "Cosite": "755174"
+      }
+    },
+    "65020": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 45000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.766 MI. E OF CR-431 (UVL)",
+        "Cosite": "750355"
+      }
+    },
+    "8095518": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 43000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.562 MI. W OF SR-423 (UCLP)",
+        "Cosite": "755181"
+      }
+    },
+    "8099843": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 27500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.083 MI. N OF SR-408 (UVL)",
+        "Cosite": "750482"
+      }
+    }
+  },
+  "E COLONIAL DR": {
+    "63580": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 42500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.248 MI. E OF SR-527 (MAGNOLIA AV)(UCLP)",
+        "Cosite": "755014"
+      }
+    },
+    "63640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.05 MI. W OF US-17/92 (UVL)",
+        "Cosite": "750546"
+      }
+    },
+    "63760": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 50000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.949 MI. E OF US-17/92 (UVL)",
+        "Cosite": "755017"
+      }
+    },
+    "8090680": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 67000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.363 MI. W OF SR-436 (UCLP)",
+        "Cosite": "750444"
+      }
+    }
+  },
+  "POMELO DR": {
+    "283740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MANDARIAN DR/VANGUARD, N OF SANDLAKE ROAD - OFF SYSTEM",
+        "Cosite": "758029"
+      }
+    }
+  },
+  "OLD CHENEY HWY": {
+    "8113542": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "OLD CHENEY HIGHWAY, N OF SR-50/COLONIAL DRIVE - OFF SYSTEM",
+        "Cosite": "758023"
+      }
+    }
+  },
+  "I-4  E": {
+    "456720": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 116500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.18 MI. NE OF SR-526 (ITS)",
+        "Cosite": "753044"
+      }
+    }
+  },
+  "S SUMMERLIN AVE": {
+    "348740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SUMMERLIN AVENUE, N OF KALEY STREET - OFF SYSTEM",
+        "Cosite": "758011"
+      }
+    },
+    "348790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "KALEY AVENUE, E OF ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758071"
+      }
+    },
+    "348820": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SUMMERLIN/BAXTER/OSCEOLA, N OF GATLIN AVE - HPMS",
+        "Cosite": "758017"
+      }
+    }
+  },
+  "N THORNTON AVE": {
+    "5000230": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (THORNTON AVE), 0.04 MI. S OF SR-526 (UV)",
+        "Cosite": "755199"
+      }
+    }
+  },
+  "E ANDERSON ST": {
+    "16590": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (ANDERSON STREET), 0.059 MI. E OF BUMBY AVE. (WB=554) (UCLP)",
+        "Cosite": "750555"
+      }
+    },
+    "16790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 15000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (ANDERSON ST), 0.08 MI. W OF SR-15 (LK UNDERHILL RD) (WB=551) (UV)",
+        "Cosite": "755207"
+      }
+    },
+    "16810": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 19000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON CR-5098 (ANDERSON ST), 0.04 MI. E OF SR-527 (ROSALIND AVE)  (WB=5175) (UV)",
+        "Cosite": "755176"
+      }
+    }
+  },
+  "CLAY ST": {
+    "60070": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CLAY STREET, N OF SR-527/ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758035"
+      }
+    },
+    "60080": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-426, 0.2 MI. W OF US-17/92",
+        "Cosite": "750435"
+      }
+    },
+    "60130": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MINNESOTA AVE, E OF FORMOSA AVENUE - OFF SYSTEM",
+        "Cosite": "758036"
+      }
+    }
+  },
+  "I-4 E": {
+    "150380": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.8,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 170000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.32 MILES EAST OF KIRKMAN ROAD EXIT RAMP",
+        "Cosite": "753007"
+      }
+    },
+    "150820": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 152500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.68 MI. SW OF SR-426 (ITS)",
+        "Cosite": "753064"
+      }
+    },
+    "151050": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 141500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, AT US-441 (ITS)",
+        "Cosite": "753018"
+      }
+    },
+    "151120": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 120500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.3 MI. SW OF SR-408 (ITS)",
+        "Cosite": "753027"
+      }
+    },
+    "151440": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 138500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.2 MI. NE OF SR-50 (ITS)",
+        "Cosite": "753051"
+      }
+    },
+    "151520": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 159500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.29 MI. SW OF SR-438 (PRINCETON) (ITS)",
+        "Cosite": "753056"
+      }
+    },
+    "151600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 177000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.121 MI. NE OF SR-438 (UCLP)",
+        "Cosite": "753061"
+      }
+    },
+    "151650": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 169500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, W. OF US-441 (ORANGE BLOSSOM TRAIL) ITS",
+        "Cosite": "753012"
+      }
+    },
+    "153500": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 137500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, NORTH OF SR-408 MAINLINE (ITS)",
+        "Cosite": "753034"
+      }
+    },
+    "8087221": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 164000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.641 MI. W OF CONROY RD OVERPASS (ITS)",
+        "Cosite": "750307"
+      }
+    },
+    "8089167": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 8,
+            "DFCTR": 52.1,
+            "AADT": 116000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 1.4 MI. NE OF FLORIDA TURNPIKE (ITS)",
+        "Cosite": "753075"
+      }
+    }
+  },
+  "S FERN CREEK AVE": {
+    "115570": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PERSHING AVENUE, E OF SUMMERLIN AVENUE - OFF SYSTEM",
+        "Cosite": "758020"
+      }
+    },
+    "115600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "FERN CREEK AVENUE, N OF GATLIN AVENUE - OFF SYSTEM",
+        "Cosite": "758012"
+      }
+    },
+    "115940": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE MARGARET DR, E OF FERNCREEK AVENUE - OFF SYSTEM",
+        "Cosite": "758018"
+      }
+    }
+  },
+  "S GOLDENROD RD": {
+    "8081826": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 29000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CURRY FORD ROAD, PINE BRANCH TO AUTUMN PLACE (HPMS)",
+        "Cosite": "757041"
+      }
+    },
+    "8081829": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 44500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-551, 0.980 MI. S OF SR-552 (UC)",
+        "Cosite": "750011"
+      }
+    },
+    "8102283": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM GOLDENROD ROAD TO SR-528 EB",
+        "Cosite": "752122"
+      }
+    },
+    "8102298": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GOLDENROD ROAD, N OF BEACHLINE EXPRESSWAY - OFF SYSTEM",
+        "Cosite": "758173"
+      }
+    }
+  },
+  "W PRINCETON ST": {
+    "287210": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.2,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.176 MI. E OF US-441 (UCG)",
+        "Cosite": "755212"
+      }
+    },
+    "318490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.08 MI. E OF US-441",
+        "Cosite": "755216"
+      }
+    },
+    "5018600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 18700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.1 MI. E OF SR-423 (UVL)",
+        "Cosite": "750601"
+      }
+    },
+    "5018610": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 26000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.3 MI. W OF SR-423 (UVL)",
+        "Cosite": "750600"
+      }
+    },
+    "5018680": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 24500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.297 MI. SE OF SR-416 (UCLP)",
+        "Cosite": "750599"
+      }
+    }
+  },
+  "TRADEPORT DR N": {
+    "118460": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 14.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON TRADEPORT RD, 1.55 MI. S OF SR-528 (SIS)",
+        "Cosite": "750046"
+      }
+    },
+    "8094186": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 14.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 18100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON TRADEPORT RD., S. OF POST OFFICE WAY (SIS)",
+        "Cosite": "750043"
+      }
+    }
+  },
+  "JEFF FUQUA BLVD": {
+    "8092121": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 21500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SOUTH ACCESS RD, 0.37 MI S OF HEINTZELMAN RD (HPMS)",
+        "Cosite": "750047"
+      }
+    }
+  },
+  "SR 528 ON RAMP W": {
+    "368030": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 SB TO SR-528 WB",
+        "Cosite": "752128"
+      }
+    },
+    "8082455": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 13500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 NB TO SR-528 WB",
+        "Cosite": "752130"
+      }
+    },
+    "8082511": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 12500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM NARCOOSEE ROAD TO SR-528 WB",
+        "Cosite": "752099"
+      }
+    },
+    "8108994": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM GOLDENROD ROAD TO SR-528 WB",
+        "Cosite": "752120"
+      }
+    }
+  },
+  "I-4 ON RAMP E": {
+    "151750": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM INTERNATIONAL DR. TO I-4 EB",
+        "Cosite": "752022"
+      }
+    },
+    "151910": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 12000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-435 NB TO I-4 EB",
+        "Cosite": "752024"
+      }
+    },
+    "152470": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM JOHN YOUNG PKWY. TO I-4 EB AKA 752216",
+        "Cosite": "752033"
+      }
+    },
+    "153000": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM PRINCETON ST. TO I-4 EB",
+        "Cosite": "752067"
+      }
+    },
+    "153220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM MICHIGAN ST. TO I-4 EB",
+        "Cosite": "752042"
+      }
+    },
+    "153240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM KALEY AVE. TO I-4 EB",
+        "Cosite": "752044"
+      }
+    },
+    "153540": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-50 TO I-4 EB",
+        "Cosite": "752061"
+      }
+    },
+    "153570": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM AMELIA ST. TO I-4 EB",
+        "Cosite": "752060"
+      }
+    },
+    "4073840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 13500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM US 441/17/92 NB TO I-4 EB",
+        "Cosite": "752037"
+      }
+    },
+    "5000160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SOUTH ST. TO I-4 EB",
+        "Cosite": "752094"
+      }
+    },
+    "8090970": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 10000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "INVANHOE BLVD ON RAMP TO I-4 EB",
+        "Cosite": "752063"
+      }
+    },
+    "8099535": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM CONROY RD EB TO I-4 EB",
+        "Cosite": "752090"
+      }
+    },
+    "8099537": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM CONROY RD WB TO I-4 EB",
+        "Cosite": "752091"
+      }
+    },
+    "8108848": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR 408, RAMP FROM SR 408 EB TO I-4 EB",
+        "Cosite": "752097"
+      }
+    },
+    "8109594": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM ANDERSON ST. TO I-4 EB AKA 752220",
+        "Cosite": "752054"
+      }
+    }
+  },
+  "SR 528 OFF RAMP W": {
+    "8082687": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 16000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 WB TO SR-436 SB",
+        "Cosite": "752138"
+      }
+    },
+    "8082994": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 WB TO TRADEPORT DRIVE",
+        "Cosite": "752126"
+      }
+    },
+    "8102279": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 WB TO GOLDENROD ROAD",
+        "Cosite": "752123"
+      }
+    },
+    "8108937": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 32500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 WB TO SR-436 SB",
+        "Cosite": "752116"
+      }
+    }
+  },
+  "E SOUTH ST": {
+    "319240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (SOUTH ST), 0.19 MI. W SR-408 OVERPASS (NO EBD) (UV)",
+        "Cosite": "755172"
+      }
+    },
+    "319290": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (CONWAY RD.), 0.05 MI. NW OF SR-408 (EB=5207) (UV)",
+        "Cosite": "750551"
+      }
+    },
+    "319320": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 19500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON CR-5098 (SOUTH ST), 0.06 MI. E OF SR-527 (ROSALIND AVE) (EB=5176) (UV)",
+        "Cosite": "755175"
+      }
+    },
+    "319450": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 7.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (SOUTH ST.), 0.034 MI. E OF MILLS AV (EB=555) (UC)",
+        "Cosite": "750554"
+      }
+    },
+    "319510": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.428 MI. S OF SR-15 (MILLS AVE.) (UV)",
+        "Cosite": "750004"
+      }
+    }
+  },
+  "SR 408 OFF RAMP E": {
+    "104530": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 85000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.2 MI. W OF US-441-17/92",
+        "Cosite": "750583"
+      }
+    },
+    "104900": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 34000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO I-4 RAMPS",
+        "Cosite": "752150"
+      }
+    },
+    "104940": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO LAKE UNDERHILL DRIVE",
+        "Cosite": "752178"
+      }
+    },
+    "105020": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO ANDERSON STREET",
+        "Cosite": "752155"
+      }
+    },
+    "105200": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO CONWAY ROAD",
+        "Cosite": "752162"
+      }
+    },
+    "5002370": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO TAMPA AVENUE",
+        "Cosite": "752152"
+      }
+    },
+    "8102641": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO LUCERNE CIRCLE",
+        "Cosite": "752153"
+      }
+    },
+    "8102674": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO ANDERSON STREET",
+        "Cosite": "752159"
+      }
+    }
+  },
+  "W RIDGEWOOD AVE": {
+    "293520": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ORTMAN DRIVE TO SR-408 EB",
+        "Cosite": "752145"
+      }
+    }
+  },
+  "I-4 OFF RAMP E": {
+    "151810": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO INTERNATIONAL DR.",
+        "Cosite": "752021"
+      }
+    },
+    "151970": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 13500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO SR-435 NB",
+        "Cosite": "752023"
+      }
+    },
+    "152490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO JOHN YOUNG PKWY. AKA 752213",
+        "Cosite": "752032"
+      }
+    },
+    "153010": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO PRINCETON ST.",
+        "Cosite": "752066"
+      }
+    },
+    "153030": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO IVANHOE BLVD.",
+        "Cosite": "752062"
+      }
+    },
+    "153100": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO PAR ST.",
+        "Cosite": "752070"
+      }
+    },
+    "153200": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 21500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO SR-408 AKA 752223",
+        "Cosite": "752048"
+      }
+    },
+    "153260": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO KALEY AVE.",
+        "Cosite": "752043"
+      }
+    },
+    "153580": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO AMELIA AVE",
+        "Cosite": "754002"
+      }
+    },
+    "471560": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO US-441/17/92 NB",
+        "Cosite": "752038"
+      }
+    },
+    "4073730": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO US-441/17/92 SB",
+        "Cosite": "752036"
+      }
+    },
+    "8099532": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 15000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 SB TO CONROY RD",
+        "Cosite": "752089"
+      }
+    },
+    "8109414": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM I-4 EB TO SOUTH STREET",
+        "Cosite": "752221"
+      }
+    }
+  },
+  "I-4 OFF RAMP W": {
+    "151730": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO PRINCETON ST.",
+        "Cosite": "752068"
+      }
+    },
+    "152070": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 16000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO US 441/17/92 SB",
+        "Cosite": "752039"
+      }
+    },
+    "153150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 17500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO SR-408",
+        "Cosite": "752050"
+      }
+    },
+    "153270": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO KALEY AVE. WB",
+        "Cosite": "752045"
+      }
+    },
+    "153300": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WD TO KALEY AVE. EB",
+        "Cosite": "752046"
+      }
+    },
+    "153380": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4,RAMP FROM I-4 WB TO SR-50",
+        "Cosite": "754001"
+      }
+    },
+    "219740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 12000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO MIGHIGAN ST.",
+        "Cosite": "752041"
+      }
+    },
+    "5019040": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO IVANHOE BLVD.(UV)",
+        "Cosite": "752064"
+      }
+    },
+    "8080981": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 12500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO SR-435 SB",
+        "Cosite": "752026"
+      }
+    },
+    "8083284": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO SR-435 NB",
+        "Cosite": "752025"
+      }
+    },
+    "8098023": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO ADVENTURE WAY",
+        "Cosite": "752088"
+      }
+    },
+    "8098094": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO SR-482 AKA 752211",
+        "Cosite": "752019"
+      }
+    },
+    "8099536": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 15500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO CONROY RD",
+        "Cosite": "752092"
+      }
+    },
+    "8107584": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM I-4 WB TO JOHN YOUNG PARKWAY",
+        "Cosite": "752217"
+      }
+    },
+    "8109310": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO ANDERSON ST. AKA 752219",
+        "Cosite": "752055"
+      }
+    }
+  },
+  "SR 417 N": {
+    "8096414": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 44500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-417, 1.28 MI. E OF BOGGY CK (RV)",
+        "Cosite": "750635"
+      }
+    },
+    "8099001": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO LEE VISTA BLVD",
+        "Cosite": "752226"
+      }
+    },
+    "8103972": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM LEE VISTA BLVD TO SR-417 NB",
+        "Cosite": "752227"
+      }
+    },
+    "8104189": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 47000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-417 SB TOLL NORTH OF LEE VISTA BLVD",
+        "Cosite": "752392"
+      }
+    },
+    "8111029": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 52000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO SR-528 EB",
+        "Cosite": "752225"
+      }
+    }
+  },
+  "SR 408 OFF RAMP W": {
+    "104600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO SOUTH STREET",
+        "Cosite": "752160"
+      }
+    },
+    "104710": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO SOUTH STREET",
+        "Cosite": "752156"
+      }
+    },
+    "104850": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO SOUTH STREET",
+        "Cosite": "752176"
+      }
+    },
+    "5001130": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO SR-500 (OBT)",
+        "Cosite": "752148"
+      }
+    },
+    "8109183": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 29000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO I-4 EB",
+        "Cosite": "752167"
+      }
+    },
+    "8112950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO I-4 EXITS",
+        "Cosite": "752168"
+      }
+    }
+  },
+  "DESOTO AVE": {
+    "8082220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 40500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-551, 0.008 MI. N OF JEFFERSON BLVD (UVL)",
+        "Cosite": "750013"
+      }
+    }
+  },
+  "JEFF FUQUA BLVD N": {
+    "8075184": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 36500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, FROM AIRPORT TO SR-436 (UC) (SIS)",
+        "Cosite": "750015"
+      }
+    }
+  },
+  "SR 528 E": {
+    "29950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.3,
+            "KFCTR": 9,
+            "DFCTR": 54.8,
+            "AADT": 70500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-528, 0.4 MI. E OF SR-15 (RV)",
+        "Cosite": "750512"
+      }
+    },
+    "30240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 7.6,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 62000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-528, 0.99  MI. W OF SR-436 (UCLP)",
+        "Cosite": "750510"
+      }
+    },
+    "8102267": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM GOLDENROD ROAD TO SR-528 WB",
+        "Cosite": "752121"
+      }
+    }
+  },
+  "LAKE UNDERHILL RD": {
+    "212680": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE UNDERHILL DRIVE, E OF CONWAY ROAD - OFF SYSTEM",
+        "Cosite": "758287"
+      }
+    },
+    "212780": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-551 (GOLDENROD ROAD) TO SR-408 EB",
+        "Cosite": "752170"
+      }
+    },
+    "212820": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO SR-436",
+        "Cosite": "752180"
+      }
+    },
+    "212840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM YUCATAN DRIVE TO SR-408 EB",
+        "Cosite": "752164"
+      }
+    },
+    "212860": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 125500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.68 MI. E OF SR-436 (UV)",
+        "Cosite": "750585"
+      }
+    },
+    "212980": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (CONWAY RD.), 0.112 MI. W OF CR-526 (LK UNDERHILL RD.) (UC)",
+        "Cosite": "750550"
+      }
+    },
+    "320130": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.071 MI. S OF CRYSTAL LAKE DR. (UV)",
+        "Cosite": "755173"
+      }
+    }
+  },
+  "E ROBINSON ST": {
+    "295860": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.174 MI. E OF ROSALIND (UCLP)",
+        "Cosite": "750553"
+      }
+    },
+    "296010": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 18200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.055 MI. E OF SR-15 (MILLS ST.) (UV)",
+        "Cosite": "755046"
+      }
+    },
+    "296140": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 13200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.328 MI. E OF SR-15 (MILLS ST.)",
+        "Cosite": "755047"
+      }
+    },
+    "8093994": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.178 MI. W OF SR-526 (CRYSTAL LK. DR.)",
+        "Cosite": "755156"
+      }
+    }
+  },
+  "N MILLS AVE": {
+    "243490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 26500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-17/92, 0.1 MI. N OF SR-527 (UV)",
+        "Cosite": "755058"
+      }
+    },
+    "243500": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 27500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-17/92, 0.17 MI. S OF SR-527",
+        "Cosite": "750437"
+      }
+    },
+    "243560": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (BROWN AVE), 0.04 MI. S OF SR-526 (UV)",
+        "Cosite": "755198"
+      }
+    },
+    "243700": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 31500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-17/92, 0.025 MI. N OF SR-50 (UV)",
+        "Cosite": "755051"
+      }
+    },
+    "243790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 40000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-17/92, 1 MI. N OF SR-50 (UV)",
+        "Cosite": "750547"
+      }
+    }
+  },
+  "NOTTINGHAM ST": {
+    "254300": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 23500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-426, 0.11 MI. W OF SR-527 (UV)",
+        "Cosite": "755072"
+      }
+    }
+  },
+  "W WASHINGTON ST": {
+    "432500": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 17.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.329 MI. W OF I-4 (UCLP)",
+        "Cosite": "755140"
+      }
+    },
+    "432510": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526, 0.102 MI. E OF US-17/92 (UVL)",
+        "Cosite": "755139"
+      }
+    }
+  },
+  "N GARLAND AVE": {
+    "124430": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GARLAND AVENUE, N OF SOUTH STREET - OFF SYSTEM",
+        "Cosite": "758245"
+      }
+    },
+    "124450": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526 (GARLAND AVE), 0.05 MI. NE OF I-4 (SB=5208) (UVL)",
+        "Cosite": "755141"
+      }
+    }
+  },
+  "JETPORT DR": {
+    "421000": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 EB TO JETPORT DRIVE",
+        "Cosite": "752112"
+      }
+    },
+    "8090294": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MC COY ROAD, WEST OF TRADEPORT DRIVE - OFF SYSTEM",
+        "Cosite": "758153"
+      }
+    },
+    "8101096": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 WB TO MCCOY ROAD",
+        "Cosite": "752114"
+      }
+    },
+    "8101332": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 14000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM MCCOY ROAD TO SR-482",
+        "Cosite": "752118"
+      }
+    }
+  },
+  "N MAGNOLIA AVE": {
+    "230210": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 18000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527 (MAGNOLIA AVE), 0.07 MI. N OF SR-50 (SB=5035) (UV)",
+        "Cosite": "755148"
+      }
+    }
+  },
+  "I-4 W": {
+    "8083421": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-482 WB TO I-4 WB",
+        "Cosite": "752086"
+      }
+    }
+  },
+  "TURKEY LAKE RD": {
+    "8088706": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 30500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TURKEY LK, WALLACE TO VINELAND (HPMS)",
+        "Cosite": "757035"
+      }
+    },
+    "8092064": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-482 TO I-4 WB",
+        "Cosite": "752020"
+      }
+    }
+  },
+  "S MAGNOLIA AVE": {
+    "230430": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON MAGNOLIA AVE., 0.14 MI. N OF SOUTH STREET",
+        "Cosite": "755028"
+      }
+    }
+  },
+  "W ANDERSON ST": {
+    "16760": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ANDERSON STREET, BETWEEN RIO GRANDE AVENUE AND I-4 - OFF SYSTEM",
+        "Cosite": "758026"
+      }
+    },
+    "5000120": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ANDERSON ST, 250 FT E OF BOONE AVE - OFF SYSTEM",
+        "Cosite": "758313"
+      }
+    }
+  },
+  "LAKE NONA BLVD": {
+    "8109826": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE NONA BLVD, 300' N OF NEMOURS PKWY - OFF SYSTEM",
+        "Cosite": "758350"
+      }
+    }
+  },
+  "TAVISTOCK LAKES BLVD": {
+    "8112935": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TRAVISTOCK LAKES BLVD, 900' W OF NARCOSSEE/SR15 - OFF SYSTEM",
+        "Cosite": "758351"
+      }
+    }
+  },
+  "NARCOOSSEE RD": {
+    "8082426": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 22000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.237 MI. SE OF SR-551(UC)",
+        "Cosite": "750032"
+      }
+    },
+    "8091972": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TYSON/KIRBY SMITH RD, 400' N OF NARCOSSEE/SR15 - HPMS SAMPLE",
+        "Cosite": "758352"
+      }
+    },
+    "8098161": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO NARCOOSEE ROAD",
+        "Cosite": "752265"
+      }
+    },
+    "8098164": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 12,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 31000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "NARCOOSSEE RD, 2 MI N OF BOGGY CRK RD (HPMS)",
+        "Cosite": "750557"
+      }
+    },
+    "8115139": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 80000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-417, 0.628 MI. E OF CR-15 (NARCOOSSEE RD) (RV)",
+        "Cosite": "750636"
+      }
+    }
+  },
+  "S GOLDWYN AVE": {
+    "129140": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GOLDWYN AVE, 950 FT N OF COLUMBIA ST - OFF SYSTEM",
+        "Cosite": "758314"
+      }
+    }
+  },
+  "S IVEY LN": {
+    "156490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "IVEY LN, 130 FT N OF MALIBU ST - OFF SYSTEM",
+        "Cosite": "758315"
+      }
+    }
+  },
+  "S MILLS AVE": {
+    "243920": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.026 MI. S OF SOUTH ST. (UV)",
+        "Cosite": "755219"
+      }
+    },
+    "243950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MILLS AVENUE, NORTH OF BRIARCLIFF DRIVE - OFF SYSTEM",
+        "Cosite": "758128"
+      }
+    },
+    "8101008": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "S MILLS AVE, 550 FT N OF E MICHIGAN ST, ORLANDO - OFF SYSTEM",
+        "Cosite": "758318"
+      }
+    }
+  },
+  "MILLENIA BLVD": {
+    "8099833": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MILLENIA BLVD, 400 FT W OF TRADITION PKWY - OFF SYSTEM",
+        "Cosite": "758319"
+      }
+    },
+    "8100223": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MELLENIA BLVD., .717 MI W OF CONROY-WINDERMERE (HPMS)",
+        "Cosite": "757018"
+      }
+    }
+  },
+  "PRESIDENT BARACK OBAMA PKWY": {
+    "8112363": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "METROWEST BLVD/PRES. OBAMA PKWY, 550' S OF 36TH STREET - OFF SYSTEM",
+        "Cosite": "758360"
+      }
+    }
+  },
+  "VETERANS WAY": {
+    "8109570": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MEDICALCITY DR/LAUREATE BLVD/VETERANS WAY, E OF LAKE NONA BLVD - HPMS SAMPLE",
+        "Cosite": "758363"
+      }
+    }
+  },
+  "SOUTH BEACH CIR": {
+    "8115147": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WESTWOOD BLVD., N OF INTERNATIONAL DRIVE - HPMS SAMPLE",
+        "Cosite": "758211"
+      }
+    },
+    "8115148": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 7,
+            "KFCTR": 8.5,
+            "DFCTR": 52.1,
+            "AADT": 208000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON I-4, 0.880 MI. E OF SR-535",
+        "Cosite": "750535"
+      }
+    }
+  },
+  "JUDGE RD": {
+    "163640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "JUDGE RD, 500 FT E OF CONWAY RD - OFF SYSTEM",
+        "Cosite": "758322"
+      }
+    }
+  },
+  "METROWEST BLVD": {
+    "8095349": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "METROWEST BLVD .3 MI E OF SR 435 (KIRKMAN RD) - OFF SYSTEM",
+        "Cosite": "758366"
+      }
+    },
+    "8103859": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "METROWEST BLVD, W OF SR-435/KIRKMAN ROAD - OFF SYSTEM",
+        "Cosite": "758078"
+      }
+    }
+  },
+  "LEEVISTA BLVD": {
+    "8082934": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LEE VISTA, 0.4 MI. W OF SR-436 (HPMS)",
+        "Cosite": "757267"
+      }
+    },
+    "8108950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 20000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LEE VISTA BLVD., E OF SR-436/SEMORAN BLVD. - OFF SYSTEM",
+        "Cosite": "758296"
+      }
+    }
+  },
+  "DOWDEN RD": {
+    "8104042": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DOWDEN RD, 0.18 MI E OF EASTERFIRLD DR - OFF SYSTEM",
+        "Cosite": "758368"
+      }
+    }
+  },
+  "WALNUT RIDGE DR": {
+    "8102196": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 94500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-417, 3.22 MI. N OF SR-528 (UC)",
+        "Cosite": "750619"
+      }
+    }
+  },
+  "LAKE COMO CIR": {
+    "181160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE COMO CIR SB, BUMBY AVE - OFF SYSTEM (TRAFFIC CIR)",
+        "Cosite": "758373"
+      }
+    }
+  },
+  "MAURY RD": {
+    "237470": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MAURY RD, 150 FT E OF ARDSLEY DR - OFF SYSTEM",
+        "Cosite": "758343"
+      }
+    },
+    "237520": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SILVER STAR/MAURY, INTERLAKEN TO WILDER ROAD (HPMS)",
+        "Cosite": "757050"
+      }
+    }
+  },
+  "TAFT VINELAND RD": {
+    "352940": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SIDNEY HAYES ROAD, N OF TAFT/VINELAND ROAD - OFF SYSTEM",
+        "Cosite": "758010"
+      }
+    }
+  },
+  "BOGGY CREEK RD": {
+    "36810": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BOGGY CREEK ROAD, WEATHERBEE TO E. WEATHERBEE (HPMS)",
+        "Cosite": "757045"
+      }
+    },
+    "36910": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BOGGY CREEK ROAD, N OF AIRPORT PARK DRIVE - OFF SYSTEM",
+        "Cosite": "758307"
+      }
+    },
+    "8092007": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM BOGGY CREEK ROAD TO SR-417 SB",
+        "Cosite": "752266"
+      }
+    },
+    "8092008": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM BOGGY CREEK ROAD TO SR-417 NB",
+        "Cosite": "752268"
+      }
+    },
+    "8092852": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO BOGGY CREEK ROAD",
+        "Cosite": "752267"
+      }
+    },
+    "8092871": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 20.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON BOGGY CREEK, 0.39 MI. N OF LANDSTREET (SIS) (UC)",
+        "Cosite": "750040"
+      }
+    },
+    "8096392": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.2,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 18000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BOGGY CREEK RD SB, 0.46 MILES NORTH OF CENTRAL FLORIDA GREENWAY (HPMS)",
+        "Cosite": "757086"
+      }
+    },
+    "8105080": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "J LAWSON BLVD, 800' W OF BOGGY CREEK RD/530 - OFF SYSTEM",
+        "Cosite": "758349"
+      }
+    },
+    "8108985": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE NONA BLVD., N OF CENTRAL FLORIDA GREENWAY - OFF SYSTEM",
+        "Cosite": "758180"
+      }
+    }
+  },
+  "OLD WINTER GARDEN RD": {
+    "260030": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 23000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "OLD WINTER GARDEN RD, 0.24 MI E OF MERCY DR - OFF SYSTEM",
+        "Cosite": "758338"
+      }
+    },
+    "260320": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 71500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.463 MI. W OF SR-435 (UV)",
+        "Cosite": "750625"
+      }
+    }
+  },
+  "WOODGREEN DR": {
+    "8074685": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BANYAN BLVD., E OF APOPKA VINELAND ROAD - OFF SYSTEM",
+        "Cosite": "758205"
+      }
+    }
+  },
+  "S TEXAS AVE": {
+    "8101747": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 7.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 59000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 1.614 MI. N OF CR-506",
+        "Cosite": "750251"
+      }
+    },
+    "8103158": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HONOUR AND RIO GRANDE, E OF TEXAS AVENUE - OFF SYSTEM",
+        "Cosite": "758131"
+      }
+    }
+  },
+  "VIRGINIA DR": {
+    "428790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "VIRGINIA/CORRINE DRIVE, E OF SR-527/ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758264"
+      }
+    }
+  },
+  "ALDEN RD": {
+    "12010": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ALDEN ROAD, N OF PRINCETON STREET - OFF SYSTEM",
+        "Cosite": "758235"
+      }
+    }
+  },
+  "N FERN CREEK AVE": {
+    "115650": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "FERNCREEK AVENUE, N OF CENTRAL BLVD. - OFF SYSTEM",
+        "Cosite": "758236"
+      }
+    }
+  },
+  "S JOHN YOUNG PKWY": {
+    "231020": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 39500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "JOHN YOUNG PKWY, MONTE CARLO TO CHURCH ST. (HPMS)",
+        "Cosite": "757029"
+      }
+    },
+    "231100": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-423 (JOHN YOUNG PARKWAY) TO SR-408 EB",
+        "Cosite": "752175"
+      }
+    },
+    "8087953": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CHANCELLER AND CENTRAL, N OF SR-482/SAND LAKE ROAD - OFF SYSTEM",
+        "Cosite": "758139"
+      }
+    },
+    "8103444": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PREMIER ROW, E OF CHANCELLOR DRIVE - OFF SYSTEM",
+        "Cosite": "758140"
+      }
+    }
+  },
+  "MAGUIRE BLVD": {
+    "231250": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 21800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MAGUIRE BLVD., N OF LIVINGSTON STREET - OFF SYSTEM",
+        "Cosite": "758265"
+      }
+    }
+  },
+  "W SOUTH ST": {
+    "319580": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SOUTH STREET, W OF ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758097"
+      }
+    }
+  },
+  "N SUMMERLIN AVE": {
+    "348920": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SUMMERLIN AVENUE, NORTH OF ANDERSON STREET - OFF SYSTEM",
+        "Cosite": "758093"
+      }
+    }
+  },
+  "N PINE HILLS RD": {
+    "281240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "NORTH LANE, 0.5 MI. E OF POWERS DR. (HPMS)",
+        "Cosite": "757010"
+      }
+    }
+  },
+  "RAPER DAIRY RD": {
+    "8080969": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "OXALIS AVENUE, N OF CURRY FORD ROAD - OFF SYSTEM",
+        "Cosite": "758237"
+      }
+    }
+  },
+  "GATLIN AVE": {
+    "125350": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GATLIN AVE., 0.073 MI. W OF KENNEDY RD. (HPMS)",
+        "Cosite": "757023"
+      }
+    },
+    "125360": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GATLIN AVENUE, E OF DIXIE BELLE DRIVE - OFF SYSTEM",
+        "Cosite": "758238"
+      }
+    }
+  },
+  "VINELAND RD": {
+    "266590": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 18000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "VINELAND ROAD, E OF TURKEY LAKE ROAD - OFF SYSTEM",
+        "Cosite": "758136"
+      }
+    }
+  },
+  "LAKE SHORE DR": {
+    "51310": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 37500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-426, 0.050  MI. W OF NEW YORK AVE.",
+        "Cosite": "750176"
+      }
+    }
+  },
+  "NASH ST": {
+    "8093918": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1750
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GREENE DR., WHITEHALL TO BROOKSHIRE AVE. (HPMS)",
+        "Cosite": "757055"
+      }
+    }
+  },
+  "LIGHTHOUSE RD": {
+    "222240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 25500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CLARCONA OCOEE ROAD, E OF PINE HILLS ROAD - OFF SYSTEM",
+        "Cosite": "758267"
+      }
+    }
+  },
+  "MERCY DR": {
+    "240660": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MERCY DRIVE, N OF OLD WINTER GARDEN ROAD - OFF SYSTEM 2017 HPMS SAMPLE",
+        "Cosite": "758068"
+      }
+    }
+  },
+  "HAZELTINE NATIONAL DR": {
+    "385160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SHADOWRIDGE/HAZELTINE NATIONAL, E OF JUDGE ROAD - OFF SYSTEM",
+        "Cosite": "758239"
+      }
+    }
+  },
+  "AMERICANA BLVD": {
+    "8101748": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RIO GRANDE AVENUE, N OF OAK RIDGE ROAD - OFF SYSTEM",
+        "Cosite": "758174"
+      }
+    }
+  },
+  "W OAK RIDGE RD": {
+    "255670": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "OAKRIDGE ROAD, E OF INTERNATIONAL DRIVE - OFF SYSTEM",
+        "Cosite": "758102"
+      }
+    }
+  },
+  "N RIO GRANDE AVE": {
+    "294700": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RIO GRANDE AVENUE, N OF SMITH STREET - OFF SYSTEM",
+        "Cosite": "758069"
+      }
+    }
+  },
+  "CORPORATE CENTRE BLVD": {
+    "385340": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TPC DRIVE/CORPORATE CENTER BLVD., N OF HAZELTINE - OFF SYSTEM",
+        "Cosite": "758240"
+      }
+    }
+  },
+  "BENT PINE DR": {
+    "8112914": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BENT PINE DRIVE, E OF SR-436/SEMORAN BLVD. - OFF SYSTEM",
+        "Cosite": "758241"
+      }
+    }
+  },
+  "WETHERBEE RD": {
+    "261860": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WETHERBEE ROAD, N OF OLD WETHERBEE ROAD - OFF SYSTEM",
+        "Cosite": "758214"
+      }
+    }
+  },
+  "LAKE ADAIR BLVD": {
+    "8099040": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1850
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WESTMORELAND STREET, N OF SR-50/COLONIAL DRIVE - HPMS SAMPLE",
+        "Cosite": "758070"
+      }
+    }
+  },
+  "MCCOY RD": {
+    "8083004": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM TRADEPORT DRIVE TO SR-528 WB",
+        "Cosite": "752125"
+      }
+    },
+    "8083005": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MCCOY ROAD/NORTH FRONTAGE ROAD, E OF CONWAY ROAD - OFF SYSTEM",
+        "Cosite": "758242"
+      }
+    }
+  },
+  "W CHURCH ST": {
+    "58590": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CHURCH STREET, E OF TAMPA AVENUE - OFF SYSTEM",
+        "Cosite": "758028"
+      }
+    },
+    "5019130": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CHURCH STREET, E OF JOHN YOUNG PARKWAY - OFF SYSTEM",
+        "Cosite": "758243"
+      }
+    }
+  },
+  "MOSS PARK RD": {
+    "247940": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MOSS PARK ROAD, E OF CR-15/NARCOSSEE ROAD - HPMS SAMPLE",
+        "Cosite": "758305"
+      }
+    },
+    "8091511": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM MOSS PARK ROAD TO SR-417 NB",
+        "Cosite": "752287"
+      }
+    },
+    "8111391": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO MOSS PARK ROAD",
+        "Cosite": "752286"
+      }
+    }
+  },
+  "S ORANGE AVE": {
+    "262170": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 34500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.143 MI. N OF MICHIGAN ST (UCLP)",
+        "Cosite": "755023"
+      }
+    },
+    "8070162": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 28000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON ORANGE AVE, 0.49 MILES SOUTH OF WEATHERBEE ROAD (HPMS)",
+        "Cosite": "757085"
+      }
+    }
+  },
+  "GENERAL REES AVE": {
+    "126120": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WINTER PARK ROAD, N OF CORRINE DRIVE - OFF SYSTEM",
+        "Cosite": "758044"
+      }
+    }
+  },
+  "N BUMBY AVE": {
+    "43220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BUMBY AVENUE - ROBINSON AVE TO SR-50 HPMS",
+        "Cosite": "757046"
+      }
+    },
+    "43620": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BUMBY AVENUE, N OF SR-50 - OFF SYSTEM",
+        "Cosite": "758045"
+      }
+    }
+  },
+  "CLARCONA OCOEE RD": {
+    "59640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 29000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 1.58 MI. N OF SR-423 (UV)",
+        "Cosite": "750105"
+      }
+    },
+    "5003430": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 28000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.05 MI. N OF CR-424",
+        "Cosite": "750480"
+      }
+    }
+  },
+  "E WASHINGTON ST": {
+    "432150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WASHINGTON STREET, E OF GARLAND AVENUE - OFF SYSTEM",
+        "Cosite": "758244"
+      }
+    }
+  },
+  "BRIERCLIFF DR": {
+    "39890": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BRIERCLIFF DR/FERN CREEK AVE, E OF DELANEY AVENUE - OFF SYSTEM",
+        "Cosite": "758046"
+      }
+    }
+  },
+  "W CENTRAL BLVD": {
+    "53090": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CENTRAL BLVD., E OF TAMPA AVENUE - OFF SYSTEM",
+        "Cosite": "758073"
+      }
+    }
+  },
+  "N HUGHEY AVE": {
+    "148950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.2,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-526 (HUGHEY AVE), 0.059 MI. N OF I-4 (UV)",
+        "Cosite": "755208"
+      }
+    },
+    "148960": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HUGHEY AVENUE, S OF SR-50 - OFF SYSTEM",
+        "Cosite": "758246"
+      }
+    }
+  },
+  "NORTH LAKE ORLANDO PKWY": {
+    "203150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE ORLANDO PARKWAY, E OF CINDERLANE PARKWAY - OFF SYSTEM",
+        "Cosite": "758111"
+      }
+    },
+    "203260": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKE ORLANDO PARKWAY, BETWEEN NORTH LANE AND CINDERLANE PARKWAY - OFF SYSTEM",
+        "Cosite": "758110"
+      }
+    }
+  },
+  "CONROY RD": {
+    "67340": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 37500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONROY ROAD/AMERICANA, E OF SR-435/KIRKMAN ROAD - OFF SYSTEM",
+        "Cosite": "758090"
+      }
+    },
+    "8020910": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 58000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON JOHN YOUNG PKWY., 0.66 MILES NORTH OF OAKRIDGE ROAD (HPMS)",
+        "Cosite": "757088"
+      }
+    }
+  },
+  "BOONE AVE": {
+    "38110": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BOONE AVENUE, N OF ANDERSON STREET - OFF SYSTEM",
+        "Cosite": "758247"
+      }
+    }
+  },
+  "S ROSALIND AVE": {
+    "8093349": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 19000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ROSALIND AVENUE, N OF ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758248"
+      }
+    }
+  },
+  "RED WILLOW AVE": {
+    "5004880": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 40000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PINE HILLS ROAD, N OF SILVER STAR ROAD - OFF SYSTEM",
+        "Cosite": "758309"
+      }
+    }
+  },
+  "WESTPOINTE BLVD": {
+    "8084425": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WESTPOINTE BLVD., E OF LAKE VILMA DRIVE - OFF SYSTEM",
+        "Cosite": "758221"
+      }
+    }
+  },
+  "RESERVE AT ROSEMONT": {
+    "9901860": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CINDERLANE PARKWAY, N OF LAKE ORLANDO PARKWAY - OFF SYSTEM",
+        "Cosite": "758112"
+      }
+    }
+  },
+  "ROSAMOND DR": {
+    "8112798": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ROSAMOND DRIVE, E OF NORHT LAKE ORLANDO PARKWAY - OFF SYSTEM",
+        "Cosite": "758113"
+      }
+    }
+  },
+  "CURRY FORD RD": {
+    "91170": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 43500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-551, 0.112 MI. N OF SR-552 (UVL)",
+        "Cosite": "750577"
+      }
+    },
+    "91410": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CURRY FORD ROAD, E OF FERN CREEK AVENUE - OFF SYSTEM",
+        "Cosite": "758250"
+      }
+    },
+    "91620": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-552, 0.26 MI. E OF SR-15 (CONWAY ROAD) (UCLP)",
+        "Cosite": "750491"
+      }
+    },
+    "91740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-552, 0.084 MI. SE OF SR-436 (UVL)",
+        "Cosite": "750492"
+      }
+    }
+  },
+  "COMMON WAY RD": {
+    "8103766": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "COMMON WAY ROAD, E OF BENNET ROAD - OFF SYSTEM",
+        "Cosite": "758222"
+      }
+    }
+  },
+  "HIGHLAND AVE": {
+    "143730": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 1.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HIGHLAND AVENUE, N OF LIVINGSTON STREET - HPMS SAMPLE",
+        "Cosite": "758114"
+      }
+    }
+  },
+  "TRUMAN RD": {
+    "362930": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BALDWIN PARK STREET, E OF LAKE BALDWIN LANE - OFF SYSTEM",
+        "Cosite": "758226"
+      }
+    },
+    "362960": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 43500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.16 MI. N OF SR-50 (UV)",
+        "Cosite": "750506"
+      }
+    }
+  },
+  "LAKEMONT AVE": {
+    "8104371": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKEMONT AVENUE, N OF COMMON WAY ROAD - OFF SYSTEM",
+        "Cosite": "758227"
+      }
+    }
+  },
+  "N ROSALIND AVE": {
+    "298750": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ROSALIND AVENUE, N OF E ANDERSON STREET - OFF SYSTEM",
+        "Cosite": "758120"
+      }
+    }
+  },
+  "S BUMBY AVE": {
+    "43290": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BUMBY AVENUE, N OF CURRY FORD ROAD - OFF SYSTEM",
+        "Cosite": "758255"
+      }
+    },
+    "43420": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TRIANGLE AND GRANT STREET, E OF FERN CREEK AVENUE - OFF SYSTEM",
+        "Cosite": "758123"
+      }
+    }
+  },
+  "S RIO GRANDE AVE": {
+    "294740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 7700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RIO-GRANDE AVENUE, N OF GORE STREET - OFF SYSTEM",
+        "Cosite": "758121"
+      }
+    },
+    "8097935": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RIO GRANDE AVENUE, N OF HOLDEN AVENUE - OFF SYSTEM",
+        "Cosite": "758260"
+      }
+    }
+  },
+  "GASTON FOSTER RD": {
+    "124970": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GASTON FOSTER ROAD, N OF CURRY FORD ROAD - OFF SYSTEM",
+        "Cosite": "758122"
+      }
+    }
+  },
+  "E PRINCETON ST": {
+    "287390": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 20500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PRINCETON STREET, E OF SR-527/ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758256"
+      }
+    }
+  },
+  "UNNAMED ACCESS ROAD": {
+    "8098014": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HOLLYWOOD WAY, E OF TURKEY LAKE ROAD - OFF SYSTEM",
+        "Cosite": "758228"
+      }
+    }
+  },
+  "MAJOR BLVD": {
+    "232850": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 10700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MAJOR BLVD., E OF UNIVERSAL BLVD. - OFF SYSTEM",
+        "Cosite": "758229"
+      }
+    }
+  },
+  "FORRESTAL AVE": {
+    "121350": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HOLDEN AVENUE, E OF RIO GRANDE AVENUE - OFF SYSTEM",
+        "Cosite": "758290"
+      }
+    }
+  },
+  "LAKE MARGARET DR": {
+    "199160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONWAY GARDENS ROAD, S OF PERSHING AVENUE - OFF SYSTEM",
+        "Cosite": "758258"
+      }
+    },
+    "199170": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GATLIN - KENNEDY TO DIXIE BELL HPMS",
+        "Cosite": "757024"
+      }
+    }
+  },
+  "PERSHING AVE": {
+    "277890": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PERSHING AVENUE, N OF GATLIN AVENUE - OFF SYSTEM",
+        "Cosite": "758259"
+      }
+    },
+    "8083812": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 21000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PERSHING AVENUE, E OF SR-436/SEMORAN BLVD. - OFF SYSTEM",
+        "Cosite": "758125"
+      }
+    }
+  },
+  "FLORIDAS TURNPIKE N": {
+    "350520": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 32500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "HIAWASSEE ROAD, N OF CONROY WINDERMERE ROAD - OFF SYSTEM",
+        "Cosite": "758081"
+      }
+    },
+    "8088070": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 46500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-482, 0.301 MI. E OF SR-423 (UVL)",
+        "Cosite": "750541"
+      }
+    },
+    "8088765": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 59500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.035 MI. N OF SR-91 (UVL)",
+        "Cosite": "750574"
+      }
+    }
+  },
+  "APPLETON WAY": {
+    "19640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GATLIN, E OF SR-527/ORANGE AVENUE - OFF SYSTEM",
+        "Cosite": "758257"
+      }
+    }
+  },
+  "E MICHIGAN ST": {
+    "8104563": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 2650
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "JERSEY/MICHIGAN AVENUE, E OF CRYSTAL LAKE DRIVE - OFF SYSTEM",
+        "Cosite": "758165"
+      }
+    }
+  },
+  "CARRIER DR": {
+    "48360": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CARRIER DRIVE, E OF INTERNATIONAL DRIVE - OFF SYSTEM",
+        "Cosite": "758230"
+      }
+    }
+  },
+  "GREENBRIAR PKWY": {
+    "130920": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GREENBRIAR PARKWAY, N OF SANDLAKE DRIVE - OFF SYSTEM",
+        "Cosite": "758231"
+      }
+    }
+  },
+  "GRANDNATIONAL DR": {
+    "5019300": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "GRAND NATIONAL DRIVE, N OF CARRIER DRIVE - OFF SYSTEM",
+        "Cosite": "758232"
+      }
+    }
+  },
+  "DIXIE BELLE DR": {
+    "98890": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 12800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "DIXIE BELLE DRIVE, E OF PERSHING AVENUE - OFF SYSTEM",
+        "Cosite": "758126"
+      }
+    }
+  },
+  "RALEIGH ST": {
+    "289190": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RALEIGH STREET/COLUMBIA STREET, E OF SR-435/KIRKMAN ROAD - OFF SYSTEM",
+        "Cosite": "758127"
+      }
+    },
+    "8073655": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 13900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RALEIGH STREET, E OF HIAWASSEE ROAD - OFF SYSTEM",
+        "Cosite": "758130"
+      }
+    }
+  },
+  "33RD ST": {
+    "5690": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "33RD STREET, E OF JOHN YOUNG PARKWAY - OFF SYSTEM",
+        "Cosite": "758087"
+      }
+    }
+  },
+  "MINNESOTA AVE": {
+    "244550": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "WYMORE ROAD, N OF I-4 - OFF SYSTEM",
+        "Cosite": "758061"
+      }
+    },
+    "244560": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO SR-426",
+        "Cosite": "752072"
+      }
+    },
+    "244590": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-426 TO I-4 WB",
+        "Cosite": "752075"
+      }
+    },
+    "244600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 WB TO SR-426",
+        "Cosite": "752074"
+      }
+    }
+  },
+  "EUNICE AVE": {
+    "112630": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SHADER ROAD, E OF MERCY DRIVE - OFF SYSTEM",
+        "Cosite": "758233"
+      }
+    }
+  },
+  "CONWAY RD": {
+    "68230": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 22000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONWAY ROAD, N OF MCCOY ROAD - OFF SYSTEM",
+        "Cosite": "758292"
+      }
+    },
+    "68260": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 26000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (CONWAY RD.), 0.08 MI.S OF C-526 (LK.UNDERHILL RD.)(UV)",
+        "Cosite": "750549"
+      }
+    },
+    "68470": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 33000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15 (CONWAY RD), 0.246 MI. S OF SR-552 (CURRY FORD)(UVL)",
+        "Cosite": "750076"
+      }
+    },
+    "8090959": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 34000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.095 MI. N OF HOFFNER RD (LP)",
+        "Cosite": "750030"
+      }
+    },
+    "8110257": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 29500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONWAY, HOFFNER TO JUDGE (HPMS)",
+        "Cosite": "757040"
+      }
+    }
+  },
+  "RADEBAUGH WAY": {
+    "362370": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 20000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "REDEBAUGH WAY, E OF VINELAND ROAD - OFF SYSTEM",
+        "Cosite": "758129"
+      }
+    }
+  },
+  "ORANGE CENTER BLVD": {
+    "264780": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 6900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ORANGE CENTER BLVD., E OF GOLDWYN AVENUE - OFF SYSTEM",
+        "Cosite": "758082"
+      }
+    }
+  },
+  "BRUTON BLVD": {
+    "5000900": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 17500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BRUTON BLVD., N OF L B MCLEOD ROAD - OFF SYSTEM",
+        "Cosite": "758083"
+      }
+    }
+  },
+  "S TAMPA AVE": {
+    "353700": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TAMPA AVENUE, N OF ORANGE CENTER BLVD. - OFF SYSTEM",
+        "Cosite": "758261"
+      }
+    }
+  },
+  "S ECONLOCKHATCHEE TRL": {
+    "8102161": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 15000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ECONLOCKHATCHEE TRAIL, N OF LEE VISTA ROAD - OFF SYSTEM",
+        "Cosite": "758169"
+      }
+    }
+  },
+  "E ROLLINS ST": {
+    "8099250": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ROLLINS STREET, E OF SR-527/ORANGE AVENUE - HPMS SAMPLE",
+        "Cosite": "758234"
+      }
+    }
+  },
+  "L B MCLEOD RD": {
+    "170870": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "L.B. MCLEOD RD, E OF JOHN YOUNG PARKWAY - OFF SYSTEM",
+        "Cosite": "758084"
+      }
+    },
+    "5016780": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 31000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LB MCLEOD RD, 0.25 MI W OF JOHN YOUNG PKWY (HPMS)",
+        "Cosite": "757033"
+      }
+    }
+  },
+  "BENNETT RD": {
+    "8103001": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BENNETT ROAD, N OF SR-50 - OFF SYSTEM",
+        "Cosite": "758262"
+      }
+    }
+  },
+  "ST GEORGE ST": {
+    "51330": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LAKEMONT AVENUE, N OF GLENRIDGE WAY - OFF SYSTEM",
+        "Cosite": "758263"
+      }
+    }
+  },
+  "W SMITH ST": {
+    "318470": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438 (WB), 0.151 MI. E OF US-441",
+        "Cosite": "755217"
+      }
+    }
+  },
+  "HAPPY LN": {
+    "8108986": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 20400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BOGGY CREEK ROAD, OSCEOLA COUNTY LINE TO 0.2 MI. N. OF KINGDOM ROAD (HPMS)",
+        "Cosite": "757044"
+      }
+    }
+  },
+  "SR 417 OFF RAMP S": {
+    "8103898": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO LEE VISTA BLVD",
+        "Cosite": "752242"
+      }
+    },
+    "8107599": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO LAKE NONA BLVD",
+        "Cosite": "752285"
+      }
+    },
+    "8111229": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO INOVATION WAY",
+        "Cosite": "752293"
+      }
+    },
+    "8111388": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 17500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO MOSS PARK ROAD",
+        "Cosite": "752289"
+      }
+    }
+  },
+  "E LIVINGSTON ST": {
+    "224930": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 4700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "LIVINGSTON, E OF MAGNOLIA - OFF SYSTEM",
+        "Cosite": "758032"
+      }
+    }
+  },
+  "I-4 ON RAMP W": {
+    "151720": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM PRINCETON ST. TO I-4 WB",
+        "Cosite": "752069"
+      }
+    },
+    "152590": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM PAR ST. TO I-4 W.BD.",
+        "Cosite": "752071"
+      }
+    },
+    "152770": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM HUGHEY AVENUE TO I-4 WB",
+        "Cosite": "752218"
+      }
+    },
+    "152990": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM IVANHOE BLVD. TO I-4 WB",
+        "Cosite": "752065"
+      }
+    },
+    "153110": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM GORE STREET TO I-4 WB",
+        "Cosite": "752222"
+      }
+    },
+    "153290": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM KALEY AVE. TO I-4 WB",
+        "Cosite": "752047"
+      }
+    },
+    "8083407": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM JOHN YOUNG PKWY. TO I-4 WB AKA 752214",
+        "Cosite": "752035"
+      }
+    },
+    "8083409": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.9,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM US-441/17/92 SB TO I-4 WB",
+        "Cosite": "752040"
+      }
+    },
+    "8098022": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM ADVENTURE WAY AND I-4 WB",
+        "Cosite": "752087"
+      }
+    },
+    "8098024": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ADVENTURE BLVD TO I-4 WB",
+        "Cosite": "752212"
+      }
+    },
+    "8098100": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 15500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM SR-435 SB TO I-4 WB",
+        "Cosite": "752027"
+      }
+    },
+    "8099534": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 16000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, WB RAMP FROM CONROY RD TO I-4 WB",
+        "Cosite": "752093"
+      }
+    },
+    "8109593": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SOUTH ST TO I-4 WB",
+        "Cosite": "754004"
+      }
+    }
+  },
+  "S ORANGE BLOSSOM TRL": {
+    "263610": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.7,
+            "KFCTR": 9,
+            "DFCTR": 52.1,
+            "AADT": 37000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.168 MI. S OF SR-526(UVL)",
+        "Cosite": "755004"
+      }
+    },
+    "455850": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 32000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.657 MI. S OF SR-408 (UVL)",
+        "Cosite": "750045"
+      }
+    }
+  },
+  "SR 417 OFF RAMP N": {
+    "8091969": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO NARCOOSEE ROAD",
+        "Cosite": "752263"
+      }
+    },
+    "8107598": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 NB TO LAKE NONA BLVD",
+        "Cosite": "752283"
+      }
+    },
+    "8111242": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM INOVATION WAY TO SR-417 NB",
+        "Cosite": "752291"
+      }
+    }
+  },
+  "SR 417 ON RAMP N": {
+    "8107597": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM LAKE NONA BLVD TO SR-417 NB",
+        "Cosite": "752284"
+      }
+    }
+  },
+  "W AMELIA ST": {
+    "14720": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "AMELIA ST, BETWEEN ORANGE BLOSSOM TRAIL AND BUMBY AVE - OFF SYSTEM",
+        "Cosite": "758033"
+      }
+    }
+  },
+  "C S X RR SPUR": {
+    "303080": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 44500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-482, 0.361 MI. W OF SR-527 (UVL)",
+        "Cosite": "750508"
+      }
+    },
+    "8101650": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 22.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "TAFT-VINELAND, 0.5 MI E OF OBT (HPMS)",
+        "Cosite": "757006"
+      }
+    }
+  },
+  "SR 528 OFF RAMP E": {
+    "10810": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 25500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 EB TO SR-436 NB",
+        "Cosite": "752117"
+      }
+    },
+    "10870": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 48000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 EB TO SR-436 SB",
+        "Cosite": "752115"
+      }
+    },
+    "8089878": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 19000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 EB TO SR-417 NB",
+        "Cosite": "752253"
+      }
+    },
+    "8102281": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-528 EB TO GOLDENROD ROAD",
+        "Cosite": "752119"
+      }
+    }
+  },
+  "CADENZA DR": {
+    "8097047": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "OXALIS/DAHLIA, E OF SR-436/SEMORAN BLVD. - OFF SYSTEM",
+        "Cosite": "758022"
+      }
+    }
+  },
+  "CONROY CLUB DR": {
+    "8100575": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 39000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONROY-WINDEMERE, TURKEY LK. TO DR. PHILLIPS (HPMS)",
+        "Cosite": "757036"
+      }
+    }
+  },
+  "S SEMORAN BLVD": {
+    "311550": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6400
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 NB TO SR-408 WB",
+        "Cosite": "752179"
+      }
+    },
+    "311610": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 59000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.035 MI. N OF SR-408 (UV)",
+        "Cosite": "755179"
+      }
+    },
+    "311650": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 55000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.18 MI. S OF SR-408 (UV)",
+        "Cosite": "755178"
+      }
+    },
+    "311740": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 64500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.339 MI. N OF SR-552 (UV)",
+        "Cosite": "750395"
+      }
+    },
+    "324610": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 65000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.407 MI. N OF SR-528 (UVLS)",
+        "Cosite": "750515"
+      }
+    },
+    "8112754": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 63500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.897 MI. S OF SR-552 (UVL)",
+        "Cosite": "750516"
+      }
+    }
+  },
+  "W PAR ST": {
+    "271410": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PAR STREET, E OF SR-424/EDGEWATER DRIVE - OFF SYSTEM",
+        "Cosite": "758034"
+      }
+    }
+  },
+  "TOSCANA CONDOS": {
+    "9901684": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 49000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SAND LK., .25 MI. E OF DR. PHILLIPS (HPMS)",
+        "Cosite": "757016"
+      }
+    }
+  },
+  "11TH AVE": {
+    "8052500": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 5100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "4TH ST., PALM AVE. TO BOGGY CREEK RD. (HPMS)",
+        "Cosite": "757502"
+      }
+    },
+    "8052560": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.2,
+            "KFCTR": 9,
+            "DFCTR": 52.1,
+            "AADT": 2700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON ATLANTIC AVE, 0.1 MI. N OF LANDSTREET RD. (SIS) (UC)",
+        "Cosite": "750027"
+      }
+    }
+  },
+  "PAULORI DR": {
+    "8085449": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 38500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON APOPKA/VINELAND ROAD, 0.59 MILES NORTH OF CONROY-WINDEREMERE ROAD (HPMS)",
+        "Cosite": "757080"
+      }
+    }
+  },
+  "W ROBINSON ST": {
+    "296340": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ROBINSON ST. OBT TO HUGHEY AVE. (HPMS)",
+        "Cosite": "757043"
+      }
+    }
+  },
+  "W GORE ST": {
+    "8102454": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON GORE STREET, 0.14 MILES EAST OF PARAMORE STREET (HPMS)",
+        "Cosite": "757084"
+      }
+    }
+  },
+  "W MICHIGAN ST": {
+    "241630": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 8.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 30000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "MICHIGAN AVE, 0.134 MILES W OF ORANGE AVE (HPMS)",
+        "Cosite": "757022"
+      }
+    }
+  },
+  "ILLIANA ST": {
+    "8087949": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 3600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "CONWAY GARDENS ROAD, N OF PERSHING AVENUE - OFF SYSTEM",
+        "Cosite": "758014"
+      }
+    }
+  },
+  "GREENS AVE": {
+    "132420": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.5,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "I-4, RAMP FROM I-4 EB TO SR-423",
+        "Cosite": "752076"
+      }
+    }
+  },
+  "E CRYSTAL LAKE AVE": {
+    "90110": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 1800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "PEEL AVE/PRIMROSE DR, N OF LAKE MARGARET DRIVE - OFF SYSTEM",
+        "Cosite": "758013"
+      }
+    }
+  },
+  "SR 417 S": {
+    "8092005": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-417 SB TO BOGGY CREEK ROAD",
+        "Cosite": "752269"
+      }
+    }
+  },
+  "LEIGH AVE": {
+    "220790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 21500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-426, 0.6 MI. E OF SR-424 (UCLP)",
+        "Cosite": "755214"
+      }
+    }
+  },
+  "BENTLEY ST": {
+    "32470": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 350
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "BENTLEY ST BETWEEN WESTMORELAND AND I-4 - OFF SYSTEM",
+        "Cosite": "758031"
+      }
+    }
+  },
+  "S KIRKMAN RD": {
+    "169410": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 58000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.34 MI. S OF I-4 OVERPASS (UVL)",
+        "Cosite": "750484"
+      }
+    },
+    "169450": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 54500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.76 MI. N OF I-4 (SOUTHWEST BD.) (UVL)",
+        "Cosite": "750483"
+      }
+    },
+    "169600": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-435 TO SR-408 WB",
+        "Cosite": "752202"
+      }
+    },
+    "306780": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM PERIMETER ROAD TO SR-482 EB",
+        "Cosite": "752109"
+      }
+    },
+    "8083389": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 34000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.38 MI. N OF WBD. SR-482 (UVL)",
+        "Cosite": "750597"
+      }
+    },
+    "8101783": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 57500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.26 MI. S OF CR-526 (UVL)",
+        "Cosite": "750478"
+      }
+    },
+    "8103187": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 57500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-435, 0.083 MI. N OF METRO WEST BLVD.",
+        "Cosite": "750609"
+      }
+    }
+  },
+  "SR 408 ON RAMP E": {
+    "104880": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 8000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM I-4 EB TO SR-408 EB",
+        "Cosite": "752224"
+      }
+    },
+    "105010": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ANDERSON STREET TO SR-408 EB E OF DELANEY",
+        "Cosite": "752154"
+      }
+    },
+    "105030": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 5900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ANDERSON STREET TO SR-408 EB",
+        "Cosite": "752157"
+      }
+    },
+    "5000070": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ANDERSON STREET TO SR-408 EB",
+        "Cosite": "752161"
+      }
+    },
+    "8083510": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-500 (OBT) TO SR-408 EB",
+        "Cosite": "752149"
+      }
+    }
+  },
+  "SR 408 W": {
+    "8102624": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-423 TO SR-408 WB",
+        "Cosite": "752141"
+      }
+    }
+  },
+  "N MISSION RD": {
+    "8099840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO PINE HILLS ROAD",
+        "Cosite": "752171"
+      }
+    },
+    "8103894": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM PINE HILLS ROAD TO SR-408 EB",
+        "Cosite": "752172"
+      }
+    }
+  },
+  "28TH ST": {
+    "7450": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 30000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-17/92, 0.211 MI. S OF KALEY AVE. (UV)",
+        "Cosite": "750008"
+      }
+    }
+  },
+  "W SAND LAKE RD ON RAMP W": {
+    "306760": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 350
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-435 TO SR-482 WB",
+        "Cosite": "752105"
+      }
+    },
+    "8083383": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-435 SB TO SR-482 WB",
+        "Cosite": "752111"
+      }
+    }
+  },
+  "S HIAWASSEE RD": {
+    "5015030": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 EB TO HIAWASSEE ROAD",
+        "Cosite": "752199"
+      }
+    }
+  },
+  "SR 408 ON RAMP W": {
+    "68250": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM CONWAY ROAD TO SR-408 WB",
+        "Cosite": "752177"
+      }
+    },
+    "261970": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1900
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM LUCERNE CIRCLE TO SR-408 WB",
+        "Cosite": "752181"
+      }
+    },
+    "5008020": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 SB TO SR-408 WB",
+        "Cosite": "752163"
+      }
+    },
+    "5011240": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-500 (OBT) TO SR-408 WB",
+        "Cosite": "752146"
+      }
+    },
+    "8090225": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM TAMPA AVENUE TO SR-408 WB",
+        "Cosite": "752151"
+      }
+    },
+    "8102673": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SOUTH STREET TO SR-408 WB",
+        "Cosite": "752158"
+      }
+    },
+    "8108790": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM ANDES ROAD TO SR-408 WB",
+        "Cosite": "752182"
+      }
+    }
+  },
+  "N JOHN YOUNG PKWY": {
+    "161150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 52500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.395 MI. N OF SR-50",
+        "Cosite": "750521"
+      }
+    },
+    "231160": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 49500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.070 MI. S OF CR-526 (RVL)",
+        "Cosite": "750640"
+      }
+    },
+    "8089209": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 54000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.118 MI. N OF CR-526 (RCLP)",
+        "Cosite": "750639"
+      }
+    },
+    "8112936": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 13.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 32000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.07 MI. S OF SR-416 (UV)",
+        "Cosite": "750631"
+      }
+    }
+  },
+  "LEE RD": {
+    "220020": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 28000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR 423, 0.234 MI. E OF US 441",
+        "Cosite": "750312"
+      }
+    }
+  },
+  "W SAND LAKE RD ON RAMP E": {
+    "306660": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 7600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-435 SB TO SR-482 EB",
+        "Cosite": "752107"
+      }
+    }
+  },
+  "OLEANDER DR": {
+    "8023200": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 60000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 1.29 MI. W OF SR-551 (UCLP)",
+        "Cosite": "750317"
+      }
+    },
+    "8084690": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 58000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-50, 0.15 MI. E OF SR-436 (UV)",
+        "Cosite": "750226"
+      }
+    }
+  },
+  "HOFFNER AVE": {
+    "8083146": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.2,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 22000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.176 MI. NW OF SR-436 (UCLP)",
+        "Cosite": "750522"
+      }
+    },
+    "8089581": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.1,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 19300
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-15, 0.193 MI. N OF SR-551 (UVL)",
+        "Cosite": "750326"
+      }
+    }
+  },
+  "JEFF FUQUA BLVD S": {
+    "8074743": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 18000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, RAMP FROM SR-436 TO AIRPORT (UC) (SIS)",
+        "Cosite": "750016"
+      }
+    }
+  },
+  "SLIGH BLVD": {
+    "318150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 16.4,
+            "KFCTR": 9,
+            "DFCTR": 52.1,
+            "AADT": 1800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SLIGH BLVD. KALEY ST. TO COLUMBIA ST. (UC) (SIS)",
+        "Cosite": "750017"
+      }
+    }
+  },
+  "SILVER STAR RD": {
+    "316840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 12.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 16100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.428 MI. W OF SR-423 (UCLP)",
+        "Cosite": "750057"
+      }
+    },
+    "316910": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 42000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.298 MI. E OF CR-431 (PINE HILLS RD.) (UVL)",
+        "Cosite": "750606"
+      }
+    },
+    "467490": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 9100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-416, 0.192 MI. E OF SR-423 (UVL)",
+        "Cosite": "750055"
+      }
+    },
+    "8101862": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 31500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON US-441, 0.11 MI. N SR-416 (SILVER STAR RD.) (UVL)",
+        "Cosite": "750259"
+      }
+    }
+  },
+  "SR 528 ON RAMP E": {
+    "10840": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6200
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 SB TO SR-528 EB",
+        "Cosite": "752131"
+      }
+    },
+    "8074951": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 9700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-436 NB TO SR-528 EB",
+        "Cosite": "752129"
+      }
+    },
+    "8082787": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 3600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM TRADEPORT DRIVE TO SR-528 EB",
+        "Cosite": "752127"
+      }
+    }
+  },
+  "BUSINESS CENTER BLVD": {
+    "5011190": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.9,
+            "KFCTR": 9,
+            "DFCTR": 52.1,
+            "AADT": 1150
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON BUSINESS CENTER BLVD, 0.070 MI. E OF SR-423 (SIS)",
+        "Cosite": "750019"
+      }
+    }
+  },
+  "HEATHERINGTON RD": {
+    "32950": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 52500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-423, 0.46 MI. W OF US-441 (UVL) PIEZO BAD",
+        "Cosite": "750520"
+      }
+    }
+  },
+  "W SAND LAKE RD": {
+    "306220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-482 EB TO PERIMETER ROAD",
+        "Cosite": "752106"
+      }
+    },
+    "306250": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 10.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 45000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-528, 0.645 MI. E OF I-4 (UVL) (2 CAB)",
+        "Cosite": "750453"
+      }
+    },
+    "8087948": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 15,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 55000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-482, 0.981 MI. W OF SR-423 (UCLP)",
+        "Cosite": "750644"
+      }
+    }
+  },
+  "UNNAMED STREET 630": {
+    "8083480": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.7,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 4000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM NARCOOSEE ROAD TO SR-528 EB",
+        "Cosite": "752102"
+      }
+    }
+  },
+  "FORMOSA AVE": {
+    "120400": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.7,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 39500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-426, 0.1 MI. E OF I-4 (UV)",
+        "Cosite": "750565"
+      }
+    }
+  },
+  "NORMA DR": {
+    "8104176": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 4.5,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 59500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-436, 0.454 MI. S OF SR-50 (UV)",
+        "Cosite": "750392"
+      }
+    }
+  },
+  "DOBSON ST": {
+    "99010": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 2600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-408 WB TO OLD WINTER GARDEN ROAD",
+        "Cosite": "752173"
+      }
+    }
+  },
+  "UNNAMED STREET 272": {
+    "411220": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 34500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-438, 0.364 MI. E OF POWERS DR. (UCLP)",
+        "Cosite": "750607"
+      }
+    }
+  },
+  "W SAND LAKE RD OFF RAMP E": {
+    "306610": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-482 EB TO SR-435 NB",
+        "Cosite": "752108"
+      }
+    },
+    "306620": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 1500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-482 EB TO SR-435 SB",
+        "Cosite": "752124"
+      }
+    },
+    "306640": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 750
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-482 WB TO PERIMETER DRIVE",
+        "Cosite": "752113"
+      }
+    }
+  },
+  "CARTER ST": {
+    "5015060": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 6100
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM HIAWASSEE ROAD TO SR-408 EB",
+        "Cosite": "752201"
+      }
+    }
+  },
+  "SR 408 E": {
+    "104050": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 82500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.98 MI. W OF US-441-17/92 (UV)",
+        "Cosite": "750582"
+      }
+    },
+    "104150": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 83500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.31 MI. E OF US-441-17/92 (UV)",
+        "Cosite": "750529"
+      }
+    },
+    "104310": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 91000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.3 MI. W OF SR-15 (MILLS AVE.) (UV)",
+        "Cosite": "750584"
+      }
+    },
+    "104400": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 134000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.18 MI. W OF SR-15 (LK UNDERHILL) (UV)",
+        "Cosite": "750530"
+      }
+    },
+    "8104179": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.8,
+            "KFCTR": 8.5,
+            "DFCTR": 52.5,
+            "AADT": 136500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "SR-408, 0.62 MI. E OF SR-15 (CONWAY RD) (UC)",
+        "Cosite": "750586"
+      }
+    }
+  },
+  "WESTCHESTER AVE": {
+    "436340": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 14600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.172 MI. SW OF US-17/92  (UV)",
+        "Cosite": "750436"
+      }
+    }
+  },
+  "S DIVISION AVE": {
+    "98450": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON DIVISION ST, 0.35 MI. N OF KALEY ST.(SIS)",
+        "Cosite": "750028"
+      }
+    }
+  },
+  "W KALEY ST": {
+    "164270": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 9.4,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8700
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON KALEY ST., 0.05 MI. W OF DIVISION ST, (SIS) (UC)",
+        "Cosite": "750029"
+      }
+    }
+  },
+  "KELSEY ST": {
+    "165750": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 5.3,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 42000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-527, 0.75 MI. N OF SR-527 (HANSEL AV) (UVL)",
+        "Cosite": "750537"
+      }
+    }
+  },
+  "OLD GOLDENROD RD": {
+    "8103284": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 3.9,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 11800
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON SR-551, 0.098 MI. N OF HOFNER AVE.(SR-15) (UVL)",
+        "Cosite": "750031"
+      }
+    }
+  },
+  "COLUMBIA ST": {
+    "65630": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 2.8,
+            "KFCTR": 9,
+            "DFCTR": 52.5,
+            "AADT": 8000
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON COLUMBIA ST., 0.12 MI. E OF DIVISION ST.(SIS) (UC)",
+        "Cosite": "750033"
+      }
+    }
+  },
+  "E LANDSTREET RD": {
+    "8070116": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 23,
+            "KFCTR": 9,
+            "DFCTR": 52.1,
+            "AADT": 10600
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "ON LANDSTREET, 0.45 MI. E OF ATLANTIC AV.(SIS)(UC)",
+        "Cosite": "750035"
+      }
+    }
+  },
+  "W SAND LAKE RD OFF RAMP W": {
+    "306770": {
+      "Traffic": [
+        [
+          2016,
+          {
+            "TFCTR": 6,
+            "KFCTR": 9,
+            "DFCTR": 99.9,
+            "AADT": 10500
+          }
+        ]
+      ],
+      "Device": {
+        "COMM": "RAMP FROM SR-482 WB TO SR-435 NB",
+        "Cosite": "752110"
+      }
+    }
+  }
+}

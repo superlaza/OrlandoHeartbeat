@@ -1,0 +1,21 @@
+{
+  "name": "orlandoheartbeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "turf": "^3.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/superlaza/orlandoheartbeat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/superlaza/orlandoheartbeat#readme"
+}
